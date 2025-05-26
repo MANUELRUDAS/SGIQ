@@ -1,7 +1,6 @@
 # SGIQ
 Problematica:
 En los entornos quirúrgicos la gestión adecuada del instrumental es un aspecto crítico que incide directamente en la seguridad del paciente, la eficiencia del equipo médico y del procedimiento. Aunque en muchas instituciones de salud, estos procesos aún se realizan de forma manual, lo cual incrementa el riesgo de errores como conteos incorrectos, pérdida de instrumentos, contaminación cruzada y falta de respaldo ante requerimientos legales o eventos adversos.
-
 Este proyecto propone el desarrollo de un sistema tecnológico accesible y adaptado al contexto clínico orientado al control, registro y verificación del instrumental quirúrgico. La solución facilitará a los instrumentadores quirúrgicos y al personal médico el manejo sistemático del equipo antes, durante y después de cada intervención, mejorando la eficiencia del proceso, reduciendo los errores humanos y fortaleciendo la calidad de la atención quirúrgica.
 
 Solucion:
